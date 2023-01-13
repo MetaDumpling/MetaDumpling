@@ -1,8 +1,7 @@
 # Site Settings
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
-description: Jekflix is a template for Jekyll inspired by Netflix and made by
-  Thiago Rossener.
+name: Meta Dumpling
+title: The marvels of Dumplings
+description: The marvels of Dumplings
 tags:
   - blog
   - template
@@ -19,12 +18,12 @@ menu:
     url: /contact
   - title: Feed
     url: /feed.xml
-email: youremail@test.com
+email: meta.dumpling@gmail.com
 # See: https://disqus.com/
-disqus_username: disqus_username
+disqus_username: metadumpling
 # Contact Form Setting
 # See: https://formspree.io/
-formspree_form_id: formspree_form_id
+formspree_form_id: xwkjpeno
 
 
 # Social Media Settings
@@ -39,7 +38,7 @@ medium_username: medium_username
 
 # Posts Settings
 show_time_bar: true
-show_modal_on_exit: false
+show_modal_on_exit: true
 show_modal_on_finish_post: true
 two_columns_layout: true
 
@@ -51,6 +50,50 @@ google_analytics: "UA-XXXXXXXX-X"
 language: "en"
 categories_folder: category
 sent_message_url: "/contact/message-sent/"
+
+
+# translations Settings
+translations:
+  text:
+    new_post: "Yeni posta"
+    see_also: "Ayrıca bakınız"
+    search: "Arama"
+    author: "Yazar"
+    share: "Paylaş"
+    comments: "Yorumlar"
+  button:
+    read_now: "Şimdi Oku"
+    share_on_twitter: "Twitter'da paylaş"
+    share_on_facebook: "Facebook'ta Paylaş"
+  pagination:
+    page: "Sayfa"
+    of: "of"
+    next_page: "Sonraki Sayfa"
+    next_post: "Önceki sayfa"
+  recommendation:
+    text: "Neden sonra bir şeyler okumuyorsun?"
+    back_btn: "başa dön"
+  error_404:
+    title: "Sayfa bulunamadı :("
+    message: "Üzgünüm. Aradığınız sayfayı bulamadık."
+    image_alt: "404 Sayfa Bulunamadı"
+  contact:
+    title: "Benimle irtibata geçin"
+    subject: "Yeni bağlantı!"
+    submit_btn: "Gönder"
+    placeholders:
+      name: "Adınız"
+      email: "E-posta adresiniz"
+      message: "Mesajın"
+    errors:
+      locale: "en"
+      empty_name: "İsim gerekli"
+      empty_email: "Email gereklidir"
+      invalid_email: "e-posta geçersiz"
+      empty_message: "Mesaj gerekli"
+    after_send:
+      title: "Mesajı gönderildi!"
+      message: "Bana mesaj gönderdiğiniz için teşekkür ederim. En kısa sürede cevap vereceğim."
 
 
 # Build settings
@@ -105,4 +148,4 @@ exclude: [
 ]
 
 # Theme
-version: v3.1.2
+version: v1.0
