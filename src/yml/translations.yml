@@ -1,0 +1,41 @@
+translations:
+  text:
+    new_post: "Yeni posta"
+    see_also: "Ayrıca bakınız"
+    search: "Arama"
+    author: "Yazar"
+    share: "Paylaş"
+    comments: "Yorumlar"
+  button:
+    read_now: "Şimdi Oku"
+    share_on_twitter: "Twitter'da paylaş"
+    share_on_facebook: "Facebook'ta Paylaş"
+  pagination:
+    page: "Sayfa"
+    of: "of"
+    next_page: "Sonraki Sayfa"
+    next_post: "Önceki sayfa"
+  recommendation:
+    text: "Neden sonra bir şeyler okumuyorsun?"
+    back_btn: "başa dön"
+  error_404:
+    title: "Sayfa bulunamadı :("
+    message: "Üzgünüm. Aradığınız sayfayı bulamadık."
+    image_alt: "404 Sayfa Bulunamadı"
+  contact:
+    title: "Benimle irtibata geçin"
+    subject: "Yeni bağlantı!"
+    submit_btn: "Gönder"
+    placeholders:
+      name: "Adınız"
+      email: "E-posta adresiniz"
+      message: "Mesajın"
+    errors:
+      locale: "en"
+      empty_name: "İsim gerekli"
+      empty_email: "Email gereklidir"
+      invalid_email: "e-posta geçersiz"
+      empty_message: "Mesaj gerekli"
+    after_send:
+      title: "Mesajı gönderildi!"
+      message: "Bana mesaj gönderdiğiniz için teşekkür ederim. En kısa sürede cevap vereceğim."
