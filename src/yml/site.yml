@@ -9,14 +9,16 @@ tags:
   - netlify
 show_hero: true
 menu:
-  - title: Home
+  - title: Giriş Sayfası
     url: /
-  - title: About
+  - title: Hakkında
     url: /about
-  - title: Contact
+  - title: Bizim Hikayemiz
+    url: /our_story
+  - title: Bize Ulaşın
     url: /contact
-  - title: Feed
-    url: /feed.xml
+  # - title: Feed
+  #   url: /feed.xml
 email: meta.dumpling@gmail.com
 # See: https://disqus.com/
 disqus_username: metadumpling
