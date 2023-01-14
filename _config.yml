@@ -10,13 +10,15 @@ tags:
   - netlify
 show_hero: true
 menu:
-  - title: Giriş Sayfası
+  - title: Home
     url: /
-  - title: Hakkında
+  - title: Product List
+    url: /product_list
+  - title: Tags
+    url: /tags
+  - title: About
     url: /about
-  - title: Bizim Hikayemiz
-    url: /our_story
-  - title: Bize Ulaşın
+  - title: Email Us
     url: /contact
   # - title: Feed
   #   url: /feed.xml
@@ -30,12 +32,12 @@ formspree_form_id: xwkjpeno
 
 # Social Media Settings
 # Remove the item if you don't need it
-github_username: github_username
-facebook_username: facebook_username
-twitter_username: twitter_username
-instagram_username: instagram_username
-linkedin_username: linkedin_username
-medium_username: medium_username
+# github_username: github_username
+# facebook_username: facebook_username
+# twitter_username: twitter_username
+instagram_username: meta_dumpling
+# linkedin_username: linkedin_username
+# medium_username: medium_username
 
 
 # Posts Settings
@@ -48,7 +50,7 @@ two_columns_layout: true
 # Advanced Settings
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://metadumpling.github.io" # the base hostname & protocol for your site
-google_analytics: "UA-XXXXXXXX-X"
+google_analytics: "G-XKGDVTHZ49"
 language: "en"
 categories_folder: category
 sent_message_url: "/contact/message-sent/"

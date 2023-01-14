@@ -9,13 +9,15 @@ tags:
   - netlify
 show_hero: true
 menu:
-  - title: Giriş Sayfası
+  - title: Home
     url: /
-  - title: Hakkında
+  - title: Product List
+    url: /product_list
+  - title: Tags
+    url: /tags
+  - title: About
     url: /about
-  - title: Bizim Hikayemiz
-    url: /our_story
-  - title: Bize Ulaşın
+  - title: Email Us
     url: /contact
   # - title: Feed
   #   url: /feed.xml

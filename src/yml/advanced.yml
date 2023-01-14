@@ -1,6 +1,6 @@
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://metadumpling.github.io" # the base hostname & protocol for your site
-google_analytics: "UA-XXXXXXXX-X"
+google_analytics: "G-XKGDVTHZ49"
 language: "en"
 categories_folder: category
 sent_message_url: "/contact/message-sent/"
