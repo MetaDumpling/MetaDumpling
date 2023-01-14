@@ -10,7 +10,9 @@ layout: compress
         {% include header.html %}
             <section class="content">
                 {{ content }}
+                {% include whatsapp.html %}
             </section>
+
         {% include footer.html %}
         <script>
             if (window.netlifyIdentity) {
@@ -25,4 +27,3 @@ layout: compress
         </script>
     </body>
 </html>
-

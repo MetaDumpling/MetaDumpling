@@ -3,6 +3,25 @@ body {
   height: 100%;
 }
 
+.float{
+	position:fixed;
+	width:60px;
+	height:60px;
+	bottom:40px;
+	right:40px;
+	background-color:#25d366;
+	color:#FFF;
+	border-radius:50px;
+	text-align:center;
+  font-size:30px;
+	box-shadow: 2px 2px 3px #999;
+  z-index:100;
+}
+
+.my-float{
+	margin-top:16px;
+}
+
 .bar-header {
   background-color: $primaryDark;
   padding: rem(10px) rem(15px);
@@ -11,7 +30,7 @@ body {
   width: 100%;
   z-index: 10;
   transition: top 0.5s, left 0.3s ease, background-color 0.5s, box-shadow 0.5s;
-  
+
   @include media(">=sm") {
     padding: rem(15px) rem(0px);
   }
@@ -35,7 +54,7 @@ body {
       width: rem(120px);
       height: rem(30px);
       transition: all .4s;
-  
+
       @include media(">=sm") {
         width: rem(205px);
       }
