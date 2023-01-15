@@ -2,14 +2,15 @@
 date: 2023-01-15 08:48:09
 layout: post
 title: "History of Dumplings"
-subtitle: Bu Lezzetli Yemeğin Anlamı ve Tarihçesi
-description:
+subtitle: The history of dumplings is quite interesting.
+description: Bu Lezzetli Yemeğin Anlamı ve Tarihçesi
 image: https://ik.imagekit.io/tr5vjbpqp/Dim-Sum-Dumplings-www.flavourand.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1673775794643
 optimized_image:
 category: blog
 tags:
   - history
   - origin
+  - chinese
 author: md
 paginate: false
 ---

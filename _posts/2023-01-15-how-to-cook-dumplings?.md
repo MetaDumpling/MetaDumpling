@@ -2,14 +2,16 @@
 date: 2023-01-15 08:46:27
 layout: post
 title: "How to cook dumplings?"
-subtitle: Köfte nasıl pişirilir?
-description: A complete guide on how to cook dumplings. Informative tips on three popular methods, boiling, pan-frying and steaming
+subtitle: A complete guide on how to cook dumplings. Informative tips on three popular methods, boiling, pan-frying and steaming
+description: Köfte nasıl pişirilir?
 image: https://ik.imagekit.io/tr5vjbpqp/pexels-cats-coming-955137.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1673781846493
-optimized_image: 
+optimized_image:
 category: tips
 tags:
-  - cook
-  - boil
+  - cooking
+  - boiling
+  - pan-frying
+  - steaming
 author: md
 paginate: false
 ---

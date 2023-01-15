@@ -2,12 +2,14 @@
 date: 2023-01-15 08:56:37
 layout: post
 title: "How to prepare Chinese Dumplings?"
-subtitle:
-description:
+subtitle: The best fomular you have never seen before
+description: Çin Mantısı nasıl hazırlanır?
 image: https://ik.imagekit.io/tr5vjbpqp/pexels-rachel-claire-4857681.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1673781718174
 optimized_image:
-category:
+category: tips
 tags:
+  - preparation
+  - stuffing
 author: md
 paginate: false
 ---
