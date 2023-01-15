@@ -6,7 +6,7 @@ subtitle: Types Of Dumplings
 description: Mantı nasıl sınıflandırılır?
 image: https://ik.imagekit.io/tr5vjbpqp/pexels-cats-coming-1385185.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1673777891248
 optimized_image:
-category: tips
+category: blog
 tags:
   - taste
   - category

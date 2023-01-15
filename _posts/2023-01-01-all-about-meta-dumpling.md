@@ -2,8 +2,8 @@
 date: 2023-01-01 12:26:40
 layout: post
 title: All About Meta Dumpling
-subtitle: Biz kimiz ve ne satıyoruz
-description: Who we are and what we are selling
+subtitle: Who we are and what we are selling
+description: Biz kimiz ve ne satıyoruz
 image: https://ik.imagekit.io/tr5vjbpqp/Banner.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1673781943662
 optimized_image: https://ik.imagekit.io/tr5vjbpqp/Banner.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1673781943662
 category: brand
