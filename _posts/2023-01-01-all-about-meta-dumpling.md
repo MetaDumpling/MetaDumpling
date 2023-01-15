@@ -63,7 +63,7 @@ Hello everyone. We are a small family from Beijing, China. Since we came to Izmi
 Herkese merhaba. Biz Pekin, Çin'den küçük bir aileyiz. Geçen yıl Mart ayında İzmir'e geldiğimizden beri, muazzam çevre, harika iklim, sıcak komşuluk ve güvenli atmosfer bizi cezbetti. Uzun bir süre burada yaşamayı planlıyoruz, bu nedenle sıfırdan bir iş kurmayı planlıyoruz. Umarım **Meta Dumpling** markamız kademeli ve sorunsuz bir şekilde büyüyebilir. Desteğiniz için şimdiden teşekkürler ve önerilerinizi bekliyorum.
 
 ## Current Serving List/ Mevcut Sunum Listesi
-
+<div style="overflow-x:auto;">
 <table class="styled-table">
   <caption>We promise these are always the newest prices<br>Bunların her zaman en yeni fiyatlar olduğuna söz veriyoruz</caption>
   <thead>
@@ -102,6 +102,7 @@ Herkese merhaba. Biz Pekin, Çin'den küçük bir aileyiz. Geçen yıl Mart ayı
 
   </tbody>
 </table>
+</div>
 
 ## Free Delivery Scope/ Ücretsiz Teslimat Kapsamı
 
