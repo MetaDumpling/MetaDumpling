@@ -23,7 +23,7 @@ collections:
     output: true
 paginate_path: "/page/:num/"
 show_contact_us_btn: true
-use_logo: false
+use_logo: true
 
 # Content paginator
 paginate_content:

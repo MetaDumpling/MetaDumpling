@@ -28,7 +28,7 @@ disqus_username: metadumpling
 # Contact Form Setting
 # See: https://formspree.io/
 formspree_form_id: xwkjpeno
-banner_name: What is exactly Dumpling?
+banner_name: All About Meta Dumpling
 
 
 # Social Media Settings
@@ -110,7 +110,7 @@ collections:
     output: true
 paginate_path: "/page/:num/"
 show_contact_us_btn: true
-use_logo: false
+use_logo: true
 
 # Content paginator
 paginate_content:
