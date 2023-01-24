@@ -78,26 +78,26 @@ Herkese merhaba. Biz Pekin, Çin'den küçük bir aileyiz. Geçen yıl Mart ayı
     <tr>
       <td>Beef/ Cabbage/ Green Onions<br>(Sığır Eti/ Lahana/ Yeşil Soğan)</td>
       <td><img src="https://ik.imagekit.io/tr5vjbpqp/Product_List/beef_onion_V7-iM_cZQ?ik-sdk-version=javascript-1.4.3&updatedAt=1673814227287"></td>
-      <td>5 PC</td>
-      <td>66 TL</td>
+      <td>8 PC</td>
+      <td>88 TL</td>
     </tr>
     <tr>
-      <td>Mutton/ Green Onions/ Mushrooms<br>(Koyun Eti/ Yeşil Soğan/ Mantar)</td>
+      <td>Mutton/ Green Onions/ Carrots<br>(Koyun Eti/ Yeşil Soğan/ Havuç)</td>
       <td><img src="https://ik.imagekit.io/tr5vjbpqp/Product_List/mutton_onion_8sZZzYqoW?ik-sdk-version=javascript-1.4.3&updatedAt=1673814170148"></td>
-      <td>5 PC</td>
-      <td>66 TL</td>
+      <td>8 PC</td>
+      <td>88 TL</td>
     </tr>
     <tr>
       <td>Eggs/ Zucchini/ Carrots<br>(Yumurta/ Kabak/ Havuç)</td>
       <td><img src="https://ik.imagekit.io/tr5vjbpqp/Product_List/carrot_egg_0MM5tLiFq?ik-sdk-version=javascript-1.4.3&updatedAt=1673814203464"></td>
-      <td>5 PC</td>
-      <td>66 TL</td>
+      <td>8 PC</td>
+      <td>88 TL</td>
     </tr>
     <tr>
-      <td>Shrimp/ Corn/ Zucchini<br>(Karides/ Mısır/ Kabak)</td>
+      <td><del>Shrimp/ Corn/ Zucchini<br>(Karides/ Mısır/ Kabak)</del></td>
       <td><img src="https://ik.imagekit.io/tr5vjbpqp/Product_List/shrimp_corn_GyGk4oUpb?ik-sdk-version=javascript-1.4.3&updatedAt=1673814229512"></td>
-      <td>5 PC</td>
-      <td>88 TL</td>
+      <td><del>8 PC</del></td>
+      <td><del>88 TL</del></td>
     </tr>
 
   </tbody>
